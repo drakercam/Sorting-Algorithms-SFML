@@ -14,8 +14,8 @@ Run the following commands to build and run
 5. Enjoy!
 
 # About
-Developer: drakercam
-Language: C++
-Build Tool: CMake 3.22.1
-SFML: 2.5.1
-OS: Linux
+1. Developer: drakercam
+2. Language: C++
+3. Build Tool: CMake 3.22.1
+4. SFML: 2.5.1
+5. OS: Linux
